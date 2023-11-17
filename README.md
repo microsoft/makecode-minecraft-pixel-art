@@ -2,7 +2,7 @@
 
 An extension for Microsoft MakeCode that lets you take pixel art and build it in Minecraft Education using concrete blocks. For example, here's a taco:
 
-![An animation showing a taco pixel art image made from concrete being built in Minecraft Education](./images/taco-build.gif)
+![An animation showing a taco pixel art image made from concrete being built in Minecraft Education](https://github.com/microsoft/makecode-minecraft-pixel-art/blob/master/images/taco-build.gif?raw=true)
 
 
 You can create your art using the MakeCode pixel art editor. To get started, click on the empty square on the image block to launch the editor!
