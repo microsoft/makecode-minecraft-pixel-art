@@ -1,14 +1,23 @@
-# Project
+# makecode-minecraft-pixel-art
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+An extension for Microsoft MakeCode that lets you take pixel art and build it in Minecraft Education using concrete blocks. For example, here's a taco:
 
-As the maintainer of this project, please make a few updates:
+![A taco pixel art image made from concrete in Minecraft Education](./images/taco.png)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+
+You can create your art using the MakeCode pixel art editor. To get started, click on the empty square on the image block to launch the editor!
+
+![A taco pixel art image made from concrete in Minecraft Education](./images/draw-image-block.png)
+
+![The MakeCode pixel art editor](./images/pixel-art-editor.png)
+
+## Keyboard shortcuts
+
+For a full list of keyboard shortcuts supported by the pixel art editor, see the [documentation here](https://makecode.com/asset-editor-shortcuts).
+
+## MakeCode Arcade
+
+This pixel art editor is compatible with the sprites from [MakeCode Arcade](https://arcade.makecode.com). You can use ctrl-C and ctrl-V to copy and paste sprites between the two editors!
 
 ## Contributing
 

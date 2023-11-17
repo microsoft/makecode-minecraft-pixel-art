@@ -1,0 +1,20 @@
+{
+    "name": "makecode-minecraft-pixel-art",
+    "version": "0.0.1",
+    "description": "An extension for drawing pixel art in MakeCode for Minecraft Education",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "docs/draw-image.md",
+        "docs/image.md",
+        "main.ts",
+        "README.md",
+        "icon.png"
+    ],
+    "testFiles": [],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
