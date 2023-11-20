@@ -100,7 +100,7 @@ namespace helpers {
 }
 
 //% block="Pixel Art"
-//% color="#a5b1c2"
+//% color="#00296b"
 //% icon="\uf03e"
 namespace pixelArt {
     /**
