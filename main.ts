@@ -121,7 +121,6 @@ namespace pixelArt {
 
     /**
      * Draws an image at the given location using concrete blocks.
-     *
      * @param image The image to draw
      * @param position The position to draw
      * @param direction The axis to draw along
