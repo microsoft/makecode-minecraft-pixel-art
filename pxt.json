@@ -10,7 +10,9 @@
         "docs/image.md",
         "main.ts",
         "README.md",
-        "icon.png"
+        "icon.png",
+        "_locales/ja/makecode-minecraft-pixel-art-jsdoc-strings.json",
+        "_locales/ja/makecode-minecraft-pixel-art-strings.json"
     ],
     "testFiles": [],
     "supportedTargets": [

@@ -1,0 +1,7 @@
+{
+    "pixelArt._spriteImage": "ドット絵",
+    "pixelArt.drawImage": "指定された位置にドット絵をコンクリートブロックで描く",
+    "pixelArt.drawImage|param|direction": "ドット絵を描く向き",
+    "pixelArt.drawImage|param|image": "描くドット絵",
+    "pixelArt.drawImage|param|position": "ドット絵を描く位置"
+}

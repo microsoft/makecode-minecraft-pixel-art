@@ -1,0 +1,6 @@
+{
+    "pixelArt._spriteImage|block": "$img",
+    "pixelArt.drawImage|block": "$imageを$positionに$direction向きに描く",
+    "pixelArt|block": "ドット絵",
+    "{id:category}Pixel Art": "ドット絵"
+}
