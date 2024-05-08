@@ -1,5 +1,6 @@
 //% helper=mapImage
 //% blockIdentity="pixelArt._spriteImage"
+//% pyConvertToTaggedTemplate
 function img(lits: any, ...args: any[]): Image { return null }
 
 namespace helpers {
@@ -253,6 +254,8 @@ namespace pixelArt {
     }
 }
 
+//% snippet='img`.`'
+//% pySnippet='img(""" . """)'
 class Image {
     protected buf: number[];
 
