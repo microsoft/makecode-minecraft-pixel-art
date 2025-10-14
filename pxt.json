@@ -1,6 +1,7 @@
 {
     "name": "makecode-minecraft-pixel-art",
-    "version": "0.0.3",
+    "displayName": "Pixel Art",
+    "version": "0.0.4",
     "description": "An extension for drawing pixel art in MakeCode for Minecraft Education",
     "dependencies": {
         "core": "*"
